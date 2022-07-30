@@ -62,11 +62,11 @@ Must browse through from each folder of this repository must start with:
          
          o Then select Task option 
          
-         o And in last go to Import Flat file section.
+         o And in last go to Import Flat file section and select CSV files and import it.
             
    
 
-<img src="https://user-images.githubusercontent.com/106439762/181937484-22815523-0cf7-42f8-ba54-a41cc28c6d7c.png" width="600">
+<p align="center"><img src="https://user-images.githubusercontent.com/106439762/181937614-9d035731-d691-4307-bac7-434873673931.png" width="600" height="470"></p>
 
    
 
