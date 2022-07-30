@@ -48,7 +48,7 @@ IPL was established in 2008 and currently consists of ten teams in ten cities ac
 
 <br>
 
-## <img src=https://user-images.githubusercontent.com/106439762/178804195-d9db61fb-b2cf-4c8f-bfc3-214cfe0f534c.gif width="48" height="48" > Quick Start
+## <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Quick Start
 
 Must begin with every sheet of tableau then in last come to sheet which present the dashboard:
 
