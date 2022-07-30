@@ -21,18 +21,19 @@ IPL was established in 2008 and currently consists of ten teams in ten cities ac
 
 ##  <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Analysis
    
-    o	KPI’s :-
-                o Room Type 
-                o Neighbourhood 
-                o Year of host since
     
-    o	Top Regions based on Bed’s availability 
+    o       Fetching count of columns and rows.    
     
-    o	Top Regions based on User Rating 
+    o	Top 5 matches which were won by maximum number of runs.
+     
+    o	Fetching the total number of boundaries and dot balls.
+  
+    o	Runs conceded in ipl by SK Warne. 
     
-    o	Average prices based on Pin code 
+    o	Top 5 bowlers who conceded maximum extra runs.
     
-    o	Year Wise Average prices 
+    o	Fetching duplicate data and doing many more analysis.
+
 
 
 
