@@ -50,11 +50,18 @@ IPL was established in 2008 and currently consists of ten teams in ten cities ac
 
 ## <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Quick Start
 
-Must begin with every sheet of tableau then in last come to sheet which present the dashboard:
+Must browse through from each folder of this repository must start with:
 
-    1.Every sheet of tableau present different stats.
-
-    2.Each column of dataset holds the value for a particular category.
+    1.Always start with creating Database in SQL platform.
+    
+    2.Then Import csv file. Below screenshot shows how to import csv dataset
+    
+         o First left click on database in Explorer window 
+         
+         o Then select Task option 
+         
+         o And in last go to Import Flat file section.
+   
 
 The data below is an example of properly formatted data.
 
