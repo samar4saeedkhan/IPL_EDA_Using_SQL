@@ -54,19 +54,19 @@ Must browse through from each folder of this repository must start with:
 
     1.Always start with creating Database in SQL platform.
     
-    2.Then Import csv file. Below screenshot shows how to import csv dataset
+    2.Then Import csv file. Below procedure and screenshot shows how to  **import CSV**  dataset in SQL SERVER.
     
-         o First left click on database in Explorer window 
+         o First go to Explorer window section.
+         
+         o Left click on database in Explorer window 
          
          o Then select Task option 
          
          o And in last go to Import Flat file section.
+            
    
 
-The data below is an example of properly formatted data.
-
-![4](https://user-images.githubusercontent.com/106439762/178805409-2f3975f1-ddcc-4de1-8331-813984995b08.PNG)
-
+<img src="https://user-images.githubusercontent.com/106439762/181937484-22815523-0cf7-42f8-ba54-a41cc28c6d7c.png" width="600">
 
    
 
