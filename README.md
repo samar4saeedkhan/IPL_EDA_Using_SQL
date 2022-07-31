@@ -85,7 +85,7 @@ I'm an aspiring data analyst...
 
 ##  <img src=https://user-images.githubusercontent.com/106439762/178810087-8f7f8272-0cb8-40cb-a14c-be475569cf7d.gif width="48" height="48"> Links
 
-<a href="https://www.linkedin.com/in/samarsaeedkhan/" ><img src="https://user-images.githubusercontent.com/106439762/182037233-49248ea9-c7a4-4f55-9fe4-5fe24e5ef160.png" width="48" height="48"> <a href="https://samarsaeedkhan.me/"><img src="https://user-images.githubusercontent.com/106439762/182037119-61f30cec-3610-4a5a-82dc-f1b7c59515b1.png" width="48" height="48"><a href="https://www.hackerrank.com/samarsaeedkhan4" > <img src="https://user-images.githubusercontent.com/106439762/182037415-9440716d-d2bc-4c33-955a-66b9c18f77eb.png" width="48" height="48"> <a href="https://www.kaggle.com/samarsaeedkhan" ><img src="https://w7.pngwing.com/pngs/399/47/png-transparent-kaggle-predictive-modelling-data-science-business-predictive-analytics-%E6%95%B0%E6%8D%AE-blue-text-laboratory-thumbnail.png" width="48" height="48"></a>   
+<a href="https://www.linkedin.com/in/samarsaeedkhan/" ><img src="https://user-images.githubusercontent.com/106439762/182037233-49248ea9-c7a4-4f55-9fe4-5fe24e5ef160.png" width="48" height="48"> <a href="https://samarsaeedkhan.me/"><img src="https://user-images.githubusercontent.com/106439762/182037119-61f30cec-3610-4a5a-82dc-f1b7c59515b1.png" width="48" height="48"><a href="https://www.hackerrank.com/samarsaeedkhan4" > <img src="https://user-images.githubusercontent.com/106439762/182037415-9440716d-d2bc-4c33-955a-66b9c18f77eb.png" width="48" height="48"> <a href="https://www.kaggle.com/samarsaeedkhan" ><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" width="48" height="48"></a>   
 
 
 
