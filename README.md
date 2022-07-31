@@ -71,7 +71,7 @@ Must browse through from each folder of this repository must start with:
    
 
 
-## <img src="https://img.icons8.com/dusk/48/000000/ios-screenshot.png"/> Screenshots
+## <img src="https://www.getcloudapp.com/wp-content/uploads/2021/03/5aebb952e4867ce13f4d308f_laptop_gif_trans.gif" width="70" height="48"/> Screenshots
 
 
 ![3](https://user-images.githubusercontent.com/106439762/182036235-b96667ad-6182-47d8-96f8-fea24f2ecada.PNG)
