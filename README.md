@@ -73,14 +73,8 @@ Must browse through from each folder of this repository must start with:
 
 ## <img src="https://www.getcloudapp.com/wp-content/uploads/2021/03/5aebb952e4867ce13f4d308f_laptop_gif_trans.gif" width="70" height="48"/> Screenshots
 
+<p align="center"><a><img src="https://user-images.githubusercontent.com/106439762/182037005-e30516c1-390c-4c21-a2b6-0f8c2865eed3.gif"</a></p>
 
-![3](https://user-images.githubusercontent.com/106439762/182036235-b96667ad-6182-47d8-96f8-fea24f2ecada.PNG)
-<br>
-<br>
-![4](https://user-images.githubusercontent.com/106439762/182036237-22dc7708-35c1-46ce-b14e-2c82c7bd3ed0.PNG)
-<br>
-
-<p align="center"><a><img src="https://user-images.githubusercontent.com/106439762/182036463-cecd201a-e5a6-4d34-a20f-68b1044186c9.PNG"><img src="https://user-images.githubusercontent.com/106439762/182036482-acbffdce-d6dc-44d3-85e5-943dbd3c6055.PNG"><br><img src="https://user-images.githubusercontent.com/106439762/182036337-985cd024-c98a-4e00-8a20-01aef53d4f86.PNG"></a></p>
 
 
 
