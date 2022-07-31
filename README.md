@@ -73,7 +73,14 @@ Must browse through from each folder of this repository must start with:
 
 ## <img src="https://img.icons8.com/dusk/48/000000/ios-screenshot.png"/> Screenshots
 
-![Dashboard 1 (1)](https://user-images.githubusercontent.com/106439762/178805795-fe41533c-e13c-4a04-a6d4-85ee5851b343.png)
+![3](https://user-images.githubusercontent.com/106439762/182036235-b96667ad-6182-47d8-96f8-fea24f2ecada.PNG)
+<br>
+<br>
+![4](https://user-images.githubusercontent.com/106439762/182036237-22dc7708-35c1-46ce-b14e-2c82c7bd3ed0.PNG)
+<br>
+<br>
+![2](https://user-images.githubusercontent.com/106439762/182036337-985cd024-c98a-4e00-8a20-01aef53d4f86.PNG)
+
 
 
 ## <img src=https://user-images.githubusercontent.com/106439762/178809088-a2d780ad-94f5-4a58-9203-7716d4b2cbf4.gif width="48" height="48"> About Me
