@@ -85,7 +85,7 @@ I'm an aspiring data analyst...
 
 ##  <img src=https://user-images.githubusercontent.com/106439762/178810087-8f7f8272-0cb8-40cb-a14c-be475569cf7d.gif width="48" height="48"> Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarsaeedkhan/)
-![icons8-website-50](https://user-images.githubusercontent.com/106439762/182037119-61f30cec-3610-4a5a-82dc-f1b7c59515b1.png)(https://samarsaeedkhan.me/)
+<a href="https://samarsaeedkhan.me/"><img src="https://user-images.githubusercontent.com/106439762/182037119-61f30cec-3610-4a5a-82dc-f1b7c59515b1.png"></a>
 
 
 
